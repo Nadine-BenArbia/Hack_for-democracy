@@ -1,0 +1,64 @@
+.overview {
+  display: flex;
+  margin: 4% 10%;
+  background: #0b4f88;
+}
+.overviewWrapper {
+  display: flex;
+  padding: 2% 10%;
+  margin-top: 10%;
+  flex-direction: column;
+  color: white;
+}
+.overviewWrapperImg {
+}
+.overviewButton {
+  margin-top: 5%;
+  width: 200px;
+  color: #b8e4da;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 36px 15px;
+  font-weight: 600;
+  height: 58px;
+  border: none;
+  background: #0072ce;
+  border-radius: 8px;
+}
+.overview_signin {
+  display: flex;
+  align-items: flex-end;
+  margin-top: 5%;
+}
+.img0 {
+  position: sticky;
+  width: 389px;
+  height: 444px;
+  left: 361px;
+  top: 529px;
+}
+.img1 {
+  position: relative;
+  width: 285px;
+  height: 388px;
+  right: 362px;
+  top: 65px;
+}
+.img2 {
+  position: relative;
+  width: 365px;
+  height: 188px;
+  right: 290px;
+  top: 91px;
+}
+.img3 {
+  position: relative;
+  width: 278px;
+  height: 307px;
+  left: 147px;
+}
+.input {
+  width: 59%;
+  height: 55px;
+}

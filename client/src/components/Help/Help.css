@@ -1,0 +1,12 @@
+.helpContainer {
+  padding: 2% 10%;
+}
+.helpWrapper {
+  justify-content: space-between;
+  display: flex;
+}
+.help {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
