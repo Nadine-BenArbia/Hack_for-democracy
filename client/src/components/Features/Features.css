@@ -1,0 +1,27 @@
+.FeaturesWrapper {
+  background: #fafafa;
+  height: 509px;
+}
+.F_wrap {
+  margin-left: 2%;
+}
+.featureTitle {
+  width: 435px;
+  height: 40px;
+
+  left: 120px;
+  top: 77px;
+  margin-bottom: 3.5rem;
+}
+.Container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 3%;
+}
+.icon {
+  background-color: lightblue;
+  height: 29px;
+  width: 4%;
+  border-radius: 24%;
+}

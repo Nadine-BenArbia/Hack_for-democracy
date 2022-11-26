@@ -1,0 +1,53 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+  height: 75px;
+}
+.navbarElement {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.title {
+  display: contents;
+}
+.element {
+  margin-right: 22px;
+  font-weight: bold;
+  font-size: 24px;
+}
+.navbarButton {
+  display: flex;
+
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.Signup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 16px;
+  gap: 10px;
+  width: 110px;
+  height: 55px;
+  font-weight: bold;
+  font-size: 18px;
+  background: #b8e4da;
+  border-radius: 8px;
+  border: none;
+}
+.Login {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 16px;
+  gap: 10px;
+  width: 92px;
+  height: 55px;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+}
